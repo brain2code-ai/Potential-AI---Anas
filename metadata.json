@@ -1,0 +1,8 @@
+{
+  "name": "PotentialAI - Future-First Hiring Platform",
+  "description": "A high-end SaaS platform for AI-powered hiring and professional networking, focusing on predicting future potential rather than past performance using adaptive assessments and AI interviews.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
